@@ -1,0 +1,19 @@
+Our bot is created for planning life.
+Commands:
+/add_goal dd.mm.yyyy dd.mm.yyyy name of goal - add goal with start in first date, deadline in second date and name that you send
+/add_subgoal - to add subgoal. To add follow instructions after command execution
+/delete_goal - to delete goal. Follow instructions after command execution
+/delete_subgoal - to delete subgoal. Follow instructions after command execution
+/edit_goal - to edit goal. Follow instructions after command execution
+/edit_subgoal - to edit subgoal. Follow instructions after command execution
+/all_reminders - list of active reminders
+/delete_reminder - to delete reminder. Follow instructions after command execution
+/edit_reminder - to edit reminder. Follow instructions after command execution
+/add_reminder - to add one or few reminders. Follow instructions after command execution
+/goal_done - execute when you done big goal and follow instructions
+/subgoal_done - execute when you done subgoal and follow instructions
+/about - some words about our bot
+/help - to get this message
+/progress - get your progress
+
+
